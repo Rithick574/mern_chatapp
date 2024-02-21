@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.App{
+    min-height: 100vh;
+    display: flex;
+    background-color: rgb(53, 81, 192);
+    /* background-image: url('./assets/chat.webp'); */
+    background-size: cover;
+    background-position: center;
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+}
